@@ -10,10 +10,10 @@ Popcorn Picker is a sleek and speedy movie search app built with Vite and React.
 
 # 🛠️ Tech Stack
 
-Vite        : 	Fast build tool for modern web apps.
+⚡ Vite        : 	Fast build tool for modern web apps.
 
-React	UI    :   Library for building interactive interfaces.
+⚛️ React	UI    :   Library for building interactive interfaces.
 
-Movie API	  :   External API (OMDB) to fetch movie data.
+🔥 Movie API	  :   External API (OMDB) to fetch movie data.
 
-Tailwind  CSS :  CSS Framework for rapid styling.
+🎨 Tailwind  CSS :  CSS Framework for rapid styling.
